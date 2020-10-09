@@ -1,0 +1,29 @@
+header, main {
+
+display: flex;
+flex-direction: column;
+align-items: center;
+background-color: rgb(99, 0, 0);
+
+}
+
+button {
+width: 170px;
+background-color: black;
+font-style: italic;
+font-weight: 900;
+color: white;
+border-radius: 50px;
+display: flexbox;
+flex-direction: column;
+}
+
+h1 {
+
+   color: whitesmoke;
+   font-style: italic;
+   font-weight: 800;
+   border: yellow;
+
+
+}
